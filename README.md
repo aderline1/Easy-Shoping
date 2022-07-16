@@ -13,3 +13,6 @@
 <br>
 <br>
 <img src="https://github.com/aderline1/Easy-Shoping/blob/master/assets/Easy%20mobile%201.png?raw=true"/>
+
+
+<img src="https://github.com/aderline1/Easy-Shoping/blob/master/assets/Easy%20mobile%202.png?raw=true"/>
